@@ -36,5 +36,12 @@ Theirs was
 <img width="682" height="821" alt="image" src="https://github.com/user-attachments/assets/d2ec14a1-b119-4c40-9b92-bf6e880f134e" />
 Theirs was just tweaked to look enough not like reload.
 
+## Admitted to skidding
+<img width="663" height="381" alt="image" src="https://github.com/user-attachments/assets/887d48f2-e9cb-480a-b7a2-d2139be47e55" />
+
+## Me getting banned from phase
+<img width="456" height="129" alt="image" src="https://github.com/user-attachments/assets/4e0b002a-ba1f-487c-887f-f0ed1d28b270" />
+
+
 ## Phase tried to make us look bad, but they are the bad ones
 ## IF YOU HAVE MORE PROOF, DM ```whoopfpv``` ON DISCORD
