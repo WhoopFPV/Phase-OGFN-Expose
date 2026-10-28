@@ -42,11 +42,6 @@ https://github.com/31Benzi/Better-Reload/blob/main/DiscordBot/commands/User/buy.
 ## Me getting banned from phase
 <img width="456" height="129" alt="image" src="https://github.com/user-attachments/assets/4e0b002a-ba1f-487c-887f-f0ed1d28b270" />
 
-## More proof of them using reload
-<img width="958" height="222" alt="image" src="https://github.com/user-attachments/assets/041ed598-372f-426d-bc62-ce4d8708b2a5" />
-https://github.com/31Benzi/Better-Reload/blob/2ff67ecd8fe7b6af30746ac8f9f647608c9a5058/routes/discovery.js#L17
-<img width="917" height="481" alt="image" src="https://github.com/user-attachments/assets/dbba08e6-108f-45ef-9b33-699acfaef240" />
-https://github.com/31Benzi/Better-Reload/blob/2ff67ecd8fe7b6af30746ac8f9f647608c9a5058/routes/main.js#L55
 
 ## Phase tried to make us look bad, but they are the bad ones
 ## IF YOU HAVE MORE PROOF, DM ```whoopfpv``` ON DISCORD
