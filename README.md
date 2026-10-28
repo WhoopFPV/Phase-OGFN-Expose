@@ -12,7 +12,7 @@
 
 ## Tried to nuke us
 <img width="842" height="417" alt="Screenshot 2026-10-20 102217" src="https://github.com/user-attachments/assets/f13c6ddf-f7ae-4432-9673-a7b0ebbd5d17" />
-Spammed our chats (Glory like we were skidding)
+#### Spammed our chats (Glory like we were skidding)
 
 
 
@@ -30,11 +30,11 @@ https://github.com/31Benzi/Better-Reload/blob/main/DiscordBot/commands/User/chan
 https://github.com/31Benzi/Better-Reload/blob/main/DiscordBot/commands/User/buy.js#L18
 
 ## The shop
-We fired up a reload backend with the discord bot linked, the image that we got from the item shop looked like this
+#### We fired up a reload backend with the discord bot linked, the image that we got from the item shop looked like this
 <img width="566" height="1002" alt="image" src="https://github.com/user-attachments/assets/27dbf665-d256-4020-ad9f-22ce0b5574c8" />
-Theirs was
+#### Theirs was
 <img width="682" height="821" alt="image" src="https://github.com/user-attachments/assets/d2ec14a1-b119-4c40-9b92-bf6e880f134e" />
-Theirs was just tweaked to look enough not like reload.
+#### Theirs was just tweaked to look enough not like reload.
 
 ## Admitted to skidding
 <img width="663" height="381" alt="image" src="https://github.com/user-attachments/assets/887d48f2-e9cb-480a-b7a2-d2139be47e55" />
@@ -42,6 +42,11 @@ Theirs was just tweaked to look enough not like reload.
 ## Me getting banned from phase
 <img width="456" height="129" alt="image" src="https://github.com/user-attachments/assets/4e0b002a-ba1f-487c-887f-f0ed1d28b270" />
 
+## More proof of them using reload
+<img width="958" height="222" alt="image" src="https://github.com/user-attachments/assets/041ed598-372f-426d-bc62-ce4d8708b2a5" />
+https://github.com/31Benzi/Better-Reload/blob/2ff67ecd8fe7b6af30746ac8f9f647608c9a5058/routes/discovery.js#L17
+<img width="917" height="481" alt="image" src="https://github.com/user-attachments/assets/dbba08e6-108f-45ef-9b33-699acfaef240" />
+https://github.com/31Benzi/Better-Reload/blob/2ff67ecd8fe7b6af30746ac8f9f647608c9a5058/routes/main.js#L55
 
 ## Phase tried to make us look bad, but they are the bad ones
 ## IF YOU HAVE MORE PROOF, DM ```whoopfpv``` ON DISCORD
